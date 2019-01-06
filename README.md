@@ -24,6 +24,7 @@ https://github.com/GreenleafLab/NucleoATAC/issues/18
 * [Single-cell ATAC-Seq](http://cole-trapnell-lab.github.io/projects/sc-atac/) 
 * [A rapid and robust method for single cell chromatin accessibility profiling](https://www.biorxiv.org/content/early/2018/04/27/309831)
 * [Global Prediction of Chromatin Accessibility Using RNA-seq from Small Number of Cells](http://www.biorxiv.org/content/early/2016/01/01/035816)  from RNA-seq to DNA accessibility. [tool on github](https://github.com/WeiqiangZhou/BIRD)  
+* [sCASAT](https://github.com/ManchesterBioinference/Scasat):Scasat is a single cell ATAC-seq preprocessing and analysis pipeline
 * [NucleoATAC](https://github.com/GreenleafLab/NucleoATAC):Python package for calling nucleosomes using ATAC-Seq data 
 * [chromVAR: Inferring transcription factor variation from **single-cell** epigenomic data](http://biorxiv.org/content/early/2017/02/21/110346) scATAC-seq
 * [ENCODE ATAC-seq guidelines](https://www.encodeproject.org/data-standards/atac-seq/)
